@@ -1,7 +1,7 @@
 <link href="js/styles.css" rel="stylesheet"></link>
 <h1>Vet App</h1>
 
-### This is the first project of the course _"React: La guía completa"_ created by The Udemy's Professor: Juan de la Torre. The original project was wrote in js code, I re-built it in ts, additional, I used useContext methodology  
+### This is the first project of the course _"React: La guía completa"_ created by The Udemy's Professor: Juan de la Torre. The original project was wrote in js code, I re-built it in <a href="https://github.com/dialmonsalve/React-06VetApp/tree/master/src" class="language--ts">typescript</a>, additional, I used useContext methodology  
 
 These are the differences between the teacher's project vs mine in typescript
  
@@ -23,8 +23,6 @@ These are the differences between the teacher's project vs mine in typescript
 
 
 ## 💡 Project Structure
-
-This is the path of the <a href="https://github.com/dialmonsalve/React-06VetApp/tree/master/ts" class="language--ts">js</a> project. There you will see the following folders and files:
 
 <div class="path-ts">
 
